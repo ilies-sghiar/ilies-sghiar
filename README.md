@@ -6,9 +6,9 @@
   <img src="https://c.tenor.com/yuhxVawgg5cAAAAC/tenor.gi"/>
 </p>
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilies-sghiar&show_icons=true&theme=radical" height="180" width="48%" style="margin-right:4%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilies-sghiar&layout=compact&theme=dark" width="48%" height="180" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilies-sghiar&show_icons=true&theme=radical" height="250" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilies-sghiar&layout=compact&theme=dark" width="48%" height="250" />
 </p>
 
 <h2> Some Tools I Have Used and Learned</h2>
