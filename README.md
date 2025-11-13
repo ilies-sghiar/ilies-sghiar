@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="./animation.svg" />
+  <img src="212.svg" />
+  <img src="https://c.tenor.com/yuhxVawgg5cAAAAC/tenor.gif" style="height: 200px;"   />
+  <img src="411.svg" />
 </p>
 
 <p align="center">
