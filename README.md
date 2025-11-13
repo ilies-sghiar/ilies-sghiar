@@ -7,9 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilies-sghiar&show_icons=true&theme=radical" style="height:250px; margin-right:10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilies-sghiar&layout=compact&theme=dark" style="height:250px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=ilies-sghiar&show_icons=true&bg_color=00000000&hide_rank=false" style="vertical-align:top; margin-right:1%;width:49%;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilies-sghiar&layout=compact&theme=transparent"style="vertical-align:top;" />
 </p>
+
 
 <h2> Some Tools I Have Used and Learned</h2>
 <p align="left">
