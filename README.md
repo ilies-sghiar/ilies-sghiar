@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-![Animation](https://c.tenor.com/yuhxVawgg5cAAAAC/tenor.gif) 
+<p align="center">
+  <img src="https://c.tenor.com/yuhxVawgg5cAAAAC/tenor.gi"/>
+</p>
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ilies-sghiar&show_icons=true&theme=radical" height="180" width="48%" style="margin-right:4%;" />
