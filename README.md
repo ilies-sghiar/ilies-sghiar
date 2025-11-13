@@ -1,6 +1,7 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilies-sghiar&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilies-sghiar&layout=compact&theme=dark)
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilies-sghiar&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilies-sghiar&layout=compact&theme=dark" width="48%" />
+</p>
 
 <h2> Some Tools I Have Used and Learned</h2>
 <p align="left">
