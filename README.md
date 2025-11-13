@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+![Animation](https://media.tenor.com/jJY1Q-DsT30AAAAM/scarface-phone-laughing.gif)
+
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ilies-sghiar&show_icons=true&theme=radical" height="180" width="48%" style="margin-right:4%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilies-sghiar&layout=compact&theme=dark" width="48%" height="180" />
