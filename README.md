@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="212.png" height="200" style="margin:0">
-  <img src="tenor.gif" height="200" style="margin:0">
-  <img src="411.png" height="200" style="margin:0">
+  <img src="212.svg" style="height: 200px; margin:0" />
+  <img src="https://c.tenor.com/yuhxVawgg5cAAAAC/tenor.gif" style="height: 200px; margin:0"   />
+  <img src="411.svg" style="height: 200px; margin:0" />
 </p>
 
 <p align="center">
