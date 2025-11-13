@@ -1,0 +1,15 @@
+<svg>
+<p align="center" style="display: flex; justify-content: center; align-items: center;">
+  <span style="display: flex; flex-direction: column; font-size: 72px; font-weight: 900; font-style: italic; margin-right: 15px; line-height: 0.9; font-family: UnifrakturMaguntia; color: #1e3a8a; text-shadow: 3px 3px 0px #fff, -3px -3px 0px #fff, 3px -3px 0px #fff, -3px 3px 0px #fff, 4px 4px 2px rgba(0,0,0,0.3);transform: skewY(-5deg);">
+    <span>2</span>
+    <span>1</span>
+    <span>2</span>
+  </span>
+  <img src="https://c.tenor.com/yuhxVawgg5cAAAAC/tenor.gif" style="height: 200px;" />
+  <span style="display: flex; flex-direction: column; font-size: 72px; font-weight: 900; font-style: italic; margin-left: 15px; line-height: 0.9; font-family: UnifrakturMaguntia; color: #1e3a8a; text-shadow: 3px 3px 0px #fff, -3px -3px 0px #fff, 3px -3px 0px #fff, -3px 3px 0px #fff, 4px 4px 2px rgba(0,0,0,0.3);transform: skewY(-5deg);">
+    <span>4</span>
+    <span>1</span>
+    <span>1</span>
+  </span>
+</p>
+</svg>
